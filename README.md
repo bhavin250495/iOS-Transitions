@@ -1,3 +1,3 @@
 # iOS-Transitions
 
-# iOS Photo gallery transitions
+### iOS Photo gallery transitions
